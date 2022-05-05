@@ -27,4 +27,5 @@ adiciona o projeto que está sendo controlado pelo git no repositorio do github.
     git push -u origin main 
 tudo que está no repositorio local passa pro remoto. push é um empurrão é literalmente empurrar os aquivos que estão salvos localmente para o repositorio remoto. main é o nome da branch que estou enviando. 
 
-Alteração 
+    git checkout -b "nova-funcionalidade"
+cria um nova branch 
