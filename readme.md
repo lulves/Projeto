@@ -30,3 +30,6 @@ tudo que está no repositorio local passa pro remoto. push é um empurrão é li
     git marge nome-da-branch
 une a branch nome-da-branch na branch principal 
 
+    git checkout -b "nova-funcionalidade"
+cria um nova branch 
+nova-funcionalidade
