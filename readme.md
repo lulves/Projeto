@@ -11,7 +11,7 @@ Projeto para aprender a utilizar o git :)
 inicializa o git no diretório 
 
     git add .
-adciona o diretório no gatilho para o commit, o **.** representa que toda a pasta está adicionada, pode ser substituida pelo nome do arquivo. 
+adciona o diretório no gatilho para o commit, o **.** representa que toda a pasta está adicionada, pode ser substituida pelo nome do arquivo. Envia para a area de stage (espera)
 
     git status 
 Visiualiza informações sobre o projeto 
@@ -26,3 +26,5 @@ adiciona o projeto que está sendo controlado pelo git no repositorio do github.
 
     git push -u origin main 
 tudo que está no repositorio local passa pro remoto. push é um empurrão é literalmente empurrar os aquivos que estão salvos localmente para o repositorio remoto. main é o nome da branch que estou enviando. 
+
+Alteração 
